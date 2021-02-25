@@ -21,3 +21,5 @@ We will not narrow down our target audience too much since anyone could experien
 
 ## Relation to the Post-Pandemic World
 The pandemic has exposed inequalities among communities of different racial groups and socioeconomic statuses. This is because communities of color have been negatively affected at a higher rate than other groups; they receive a lower quality of healthcare and may be apprehensive about calling law enforcement if they have been racially profiled or discriminated against in the past. The goal of our application is to rebuild the trust between these communities and the police as it is essential to their health and wellbeing, especially during and after a global pandemic.
+
+[Link to full PDF assignment.](https://github.com/elenarose/DAPB/blob/main/T1-%5BDAPB%5D-%5BKandasamy%5D-%5BSilva%5D-%5BBade%5D.pdf%5B81%5D.pdf)
